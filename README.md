@@ -13,7 +13,7 @@ Based on Mathias' input, our designer Manuel came up with a design for this.
 
 > *Manuel*: Let me see ... how about this?
 
-![Design](task.jpg)
+![Design](task.png)
 
 > *Mathias*: Looks great :) Now, let me define how the fee is calculated. 
 > 1) The standard fee is 1,4 % of the amount.
@@ -32,7 +32,8 @@ Based on Mathias' input, our designer Manuel came up with a design for this.
 
 Please help Mathias and Manuel to bring this feature to life. 
 
-1. Please do not use more than 2-3 hours of your time. 
+1. Please do not use more than 2-3 hours of your time. If you do not finish, no problem. Let us talk about the challenges. 
+2. The result does not need to look exactly like the Mockup, it should just give an idea.
 2. You can use any framework you like (at payactive we work with React). 
 3. Please make full use of online documention, or even discuss it with a friend. For us it is important how you approach this task. 
 4. Most importantly, have fun!
