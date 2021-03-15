@@ -24,7 +24,7 @@ Based on Mathias' input, our designer Manuel came up with a design for this.
 > *Manuel*: Ok, sounds logical. Can you give some examples so I can visualise it better?
 
 
-> *Mathias*: Sure thing. If you take an amount of 120 € then the fee is 1,68 €. For 210 € it is 2 €, because you reached the cap. If you take 8000 € then you ready the high amount area and the fee is 5 €. Makes sense? 
+> *Mathias*: Sure thing. If you take an amount of 120 € then the fee is 1,68 €. For 210 € it is 2 €, because you reached the cap. If you take 8000 € then you reach the high amount area and the fee is 5 €. Makes sense? 
 
 > *Manuel*: Absolutely, can't wait to see it in action :) 
 
@@ -33,7 +33,6 @@ Based on Mathias' input, our designer Manuel came up with a design for this.
 Please help Mathias and Manuel to bring this feature to life. 
 
 1. Please do not use more than 2-3 hours of your time. If you do not finish, no problem. Let us talk about the challenges. 
-2. The result does not need to look exactly like the Mockup, it should just give an idea.
-2. You can use any framework you like (at payactive we work with React). 
-3. Please make full use of online documention, or even discuss it with a friend. For us it is important how you approach this task. 
-4. Most importantly, have fun!
+2. The result does not need to look exactly like the Mockup, it is just a loose guideline.
+2. You can use any framework you like (at payactive we use React). 
+3. Most importantly, have fun!
